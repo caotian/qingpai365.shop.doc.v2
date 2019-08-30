@@ -236,7 +236,7 @@
         <td>会员等级</td>
         <td>module.level.list</td>
         <td>array</td>
-        <td>按消费金额: 范例: [{"money":0, "level":"普通会员", "benefit": "每年享受一次免费眼健康全面检查服务"}, {"money":500, "level":"铜牌会员", "benefit": "每年享受两次免费眼健康全面检查服务"}, {"money":1000, "level":"银牌会员", "benefit": "每年享受三次免费眼健康全面检查服务"}, {"money":3000, "level":"金牌会员", "benefit": "每年享受四次免费眼健康全面检查服务"}, {"money":5000, "level":"白金会员", "benefit": "每年享受五次免费眼健康全面检查服务"}, {"money":10000, "level":"钻石会员", "benefit": "每年享受六次免费眼健康全面检查服务"}, {"money":30000, "level":"黑卡会员", "benefit": "每年享受七次免费眼健康全面检查服务"}]</td>
+        <td>按消费金额: 范例: [{"level":1, "name":"普通会员", "money":0, "benefit": "每年享受一次免费眼健康全面检查服务"}, {"level":2, "name":"铜牌会员", "money":500, "benefit": "每年享受两次免费眼健康全面检查服务"}]</td>
     </tr>
     <tr>
         <td>-</td>
