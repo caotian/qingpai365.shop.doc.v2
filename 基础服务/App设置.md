@@ -250,6 +250,18 @@
         <td>int</td>
         <td>1:是 0否</td>
     </tr>
+    <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>验光模块记录法</td>
+        <td>module.optometry.standard</td>
+        <td>int</td>
+        <td>0: 五分记录法 1: 小数记录法</td>
+    </tr>
 </table>
 
 
