@@ -78,5 +78,5 @@
 ## 我的APP信息
 
 ```
-GET /core/app/view
+GET /core/v1/app/view
 ```

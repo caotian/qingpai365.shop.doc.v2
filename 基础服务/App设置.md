@@ -268,7 +268,7 @@
 ## 获取APP设置
 
 ```
-GET /core/app-setting/view
+GET /core/v1/app-setting/view
 ```
 
 > 请求参数: path: 路径
